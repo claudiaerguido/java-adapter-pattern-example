@@ -11,5 +11,7 @@ public class GuitarraAcustica {
 
     public void parar() {
         System.out.println("Dejando de tocar la guitarra acústica");
+        System.out.println("");
+
     }
 }
